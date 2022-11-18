@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I am a programmer from Hong Kong, 一個來自香港的程式設計員
+- 🔭 I’m currently working on <a href="https://www.hostlink.com.hk" target="_blank">HostLink(HK)</a>
+- view my <a href="https://skyline.github.com/mechaserpent">github skyline</a>
+
 <!--
 **mechaserpent/mechaserpent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mechaserpent&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mechaserpent&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
