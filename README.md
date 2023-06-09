@@ -11,7 +11,7 @@
 </div>
 
 
-![snake svg](https://github.com/mechaserpent/mechaserpent/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/mechaserpent/mechaserpent/blob/output/github-snake.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mechaserpent&count_private=true&theme=cobalt&show_icons=true)
 
