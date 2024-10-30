@@ -14,7 +14,7 @@
 ![snake svg](https://github.com/mechaserpent/mechaserpent/blob/output/github-snake.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mechaserpent&include_all_commits=true&count_private=true&theme=cobalt&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mechaserpent&theme=cobalt&hide_border=true)<br/>
+![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mechaserpent&theme=one_dark_pro&hide_border=true)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mechaserpent&langs_count=6&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
